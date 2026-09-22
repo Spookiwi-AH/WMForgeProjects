@@ -1,0 +1,144 @@
+
+body{
+
+    background-color:cadetblue;
+
+}
+
+#Froggy_Image{
+
+    height: 400px;
+    width: 100vw;
+
+
+}
+
+#Main_Header{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+
+    font-size: 80px;
+}
+
+#ScribeDrawingC{
+
+
+    height: 500px;
+    width: 800px;
+
+    margin: 8px;
+
+    display: flex;
+
+
+}
+
+#We1BodyCont{
+
+    display:flex;
+
+    align-self: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.left-body-style{
+
+
+    display: flex;
+
+    justify-content: end;
+    align-content:baseline;
+
+    margin-top: 60px;
+
+    font-size: 25px;
+    
+
+}
+
+
+.list-group-item{
+
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+
+    width: 800px;
+
+    background-color: lightblue;
+    border: 2px solid black;
+
+}
+
+.list-group-container{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+
+    padding: 20px;
+    margin: 20px;
+
+    
+}
+
+.Main_Container{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    padding: 20px;
+
+    
+}
+
+.standard-body-style{
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    flex-wrap: wrap;
+
+
+    font-size:25px;
+
+    margin-top: 20px;
+    margin: 20px;
+
+
+}
+
+
+
+.standard-header-style{
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    font-size: 40px;
+
+    font-weight: bold;
+
+
+
+}
